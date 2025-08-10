@@ -45,6 +45,10 @@
     filter: brightness(0) saturate(100%) invert(60%) sepia(6%) saturate(35%) hue-rotate(336deg) brightness(96%) contrast(88%);
 }
 
+.icon-selected{
+    filter: brightness(0) saturate(100%) invert(75%) sepia(16%) saturate(409%) hue-rotate(352deg) brightness(89%) contrast(93%);
+}
+
 /*thanks stackoverflow lol*/
 input {border:0;outline:0;}
 input:focus {outline:none!important;}
